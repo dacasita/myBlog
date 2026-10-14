@@ -1,0 +1,9 @@
+baseURL: "https://localhost:1313/"
+locale: "zh_TW"
+title: "我的部落格"
+theme: "PaperMod"
+
+params:
+  env: production
+  defaultTheme: auto
+  ShowReadingTime: true
